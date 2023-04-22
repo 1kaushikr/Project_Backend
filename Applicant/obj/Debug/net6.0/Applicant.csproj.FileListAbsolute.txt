@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\Solution\Applicant\bin\Debug\net6.0\Applicant.deps.json
+C:\Users\Dell\Desktop\Solution\Applicant\bin\Debug\net6.0\Applicant.dll
+C:\Users\Dell\Desktop\Solution\Applicant\bin\Debug\net6.0\Applicant.pdb
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\Applicant.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\Applicant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\Applicant.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\Applicant.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\Applicant.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\Applicant.dll
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\refint\Applicant.dll
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\Applicant.pdb
+C:\Users\Dell\Desktop\Solution\Applicant\obj\Debug\net6.0\ref\Applicant.dll
