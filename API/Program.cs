@@ -1,10 +1,12 @@
-using Microsoft.Extensions.Options;
-using MongoDB.Driver;
-using MongoDB.Driver.Core.Configuration;
 using ApplicantService;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(p => p.AddPolicy("policy", build =>
+{   
+        build.WithOrigins("http://localhost:3000/").AllowAnyHeader().AllowAnyOrigin();
+  
+}));
 // Add services to the container.
 builder.Services.AddSingleton<IApplicantService, Applicantservice>();
 builder.Services.AddControllers();
@@ -20,7 +22,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+app.UseCors("policy");
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

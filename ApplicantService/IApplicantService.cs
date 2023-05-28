@@ -6,5 +6,6 @@ namespace ApplicantService
     {
         List<Application> Get();
         Application Post(Application person);
+        Application? Get(string id);
     }
 }

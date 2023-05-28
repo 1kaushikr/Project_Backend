@@ -8,10 +8,10 @@ namespace Applicant
     {
         [BsonId]
         [BsonRepresentation(MongoDB.Bson.BsonType.ObjectId)]
-        public string _id = ObjectId.GenerateNewId().ToString(); 
-        public string firstName { get; set; }
+        public string? _id { get; set; } 
+        public string? firstName { get; set; }
 
-        public string lastName { get; set; }
+        public string? lastName { get; set; }
 
         public string dob { get; set; }
         public List<string>? phoneList { get; set; }

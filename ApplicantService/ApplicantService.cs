@@ -24,5 +24,20 @@ namespace ApplicantService
             _Applicant.InsertOne(person);
             return person;
         }
+
+        public Application? Get(string id)
+        {
+            if (id == null)
+            {
+                return null;
+            }
+            var arr = _Applicant.Find(x => x._id == id).FirstOrDefault();
+
+            if (arr is null)
+            {
+                return null;
+            }
+            return arr;
+        }
     }
 }

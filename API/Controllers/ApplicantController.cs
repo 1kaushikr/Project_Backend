@@ -1,6 +1,7 @@
 using ApplicantService;
 using Applicant;
 using Microsoft.AspNetCore.Mvc;
+using Query;
 
 namespace API.Controllers
 {
@@ -29,6 +30,16 @@ namespace API.Controllers
             _ApplicantService.Post(value);
             return CreatedAtAction(nameof(Get), new { id = value._id }, value);
         }
+        [HttpGet("{id:length(24)}")]
+        public Application? Get(string id)
+        {
+            return _ApplicantService.Get(id);
+        }
 
+        [HttpPost("Query")]
+        public string Query(query query)
+        {
+            return query._query;
+        }
     }
 }
