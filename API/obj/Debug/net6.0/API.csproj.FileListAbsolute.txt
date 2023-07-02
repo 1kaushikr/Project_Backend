@@ -80,7 +80,6 @@ C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\ApplicantService.
 C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\Applicant.pdb
 C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\DataLayer.pdb
 C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
-C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
 C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.AssemblyInfo.cs
 C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
@@ -106,3 +105,8 @@ C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.RazorAssembly
 C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.RazorAssemblyInfo.cs
 C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\Query.dll
 C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\Query.pdb
+C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Solution\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\Dell\Desktop\New folder\Solution\API\bin\Debug\net6.0\Nest.dll
