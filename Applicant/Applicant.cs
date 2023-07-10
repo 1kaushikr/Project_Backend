@@ -12,13 +12,13 @@ namespace Applicant
 
         public string? lastName { get; set; }
 
-        public string dob { get; set; }
+        public string? dob { get; set; }
         public List<string>? phoneList { get; set; }
         public List<string>? emailList { get; set; }
         public List<Edu>? eduList { get; set; }
         public List<Exp>? expList { get; set; }
         public List<Pro>? proList { get; set; }
-        public List<string>? skill { get; set; }
+        public string? skill { get; set; }
 
     }
 }

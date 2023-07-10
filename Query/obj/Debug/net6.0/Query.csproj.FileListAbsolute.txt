@@ -10,3 +10,15 @@ C:\Users\Dell\Desktop\New folder\Solution\Query\obj\Debug\net6.0\Query.dll
 C:\Users\Dell\Desktop\New folder\Solution\Query\obj\Debug\net6.0\refint\Query.dll
 C:\Users\Dell\Desktop\New folder\Solution\Query\obj\Debug\net6.0\Query.pdb
 C:\Users\Dell\Desktop\New folder\Solution\Query\obj\Debug\net6.0\ref\Query.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\bin\Debug\net6.0\Query.deps.json
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\bin\Debug\net6.0\Query.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\bin\Debug\net6.0\Query.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\Query.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\Query.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\Query.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\Query.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\Query.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\refint\Query.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\Query.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\Query\obj\Debug\net6.0\ref\Query.dll

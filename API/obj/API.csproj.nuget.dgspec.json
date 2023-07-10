@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\API\\API.csproj": {}
+    "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\API\\API.csproj": {
+    "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\API\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\ApplicantService\\ApplicantService.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\ApplicantService\\ApplicantService.csproj"
+              "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\ApplicantService\\ApplicantService.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\ApplicantService\\ApplicantService.csproj"
               },
-              "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Query\\Query.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Query\\Query.csproj"
+              "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\ApplicantService\\ApplicantService.csproj": {
+    "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\ApplicantService\\ApplicantService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\ApplicantService\\ApplicantService.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\ApplicantService\\ApplicantService.csproj",
         "projectName": "ApplicantService",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\ApplicantService\\ApplicantService.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\ApplicantService\\ApplicantService.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\ApplicantService\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\ApplicantService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -117,11 +117,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj"
+              "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj"
               },
-              "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\DataLayer\\DataLayer.csproj"
+              "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\DataLayer\\DataLayer.csproj"
+              },
+              "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj"
               }
             }
           }
@@ -136,10 +139,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.19.1, )"
-            },
             "NEST": {
               "target": "Package",
               "version": "[7.17.5, )"
@@ -169,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj": {
+    "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj",
         "projectName": "Applicant",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -235,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,8 +263,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj": {
-                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj"
+              "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj"
+              },
+              "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj"
               }
             }
           }
@@ -282,11 +284,15 @@
           "dependencies": {
             "MongoDB.Driver": {
               "target": "Package",
-              "version": "[2.19.1, )"
+              "version": "[2.20.0, )"
             },
             "NEST": {
               "target": "Package",
               "version": "[7.17.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
             }
           },
           "imports": [
@@ -309,14 +315,14 @@
         }
       }
     },
-    "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Query\\Query.csproj": {
+    "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Query\\Query.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj",
         "projectName": "Query",
-        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Query\\Query.csproj",
+        "projectPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\Query.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Query\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Query\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

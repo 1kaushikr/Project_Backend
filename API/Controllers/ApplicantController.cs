@@ -2,7 +2,7 @@ using ApplicantService;
 using Applicant;
 using Microsoft.AspNetCore.Mvc;
 using Query;
-using System.Net.Http.Headers;
+using DataLayer;
 
 
 namespace API.Controllers
@@ -11,16 +11,10 @@ namespace API.Controllers
     [Route("[controller]")]
     public class ApplicantController : ControllerBase
     {
-        private readonly IApplicantService _ApplicantService;
-        private readonly HttpClient client;
+        private readonly Applicantservice _ApplicantService;
         public ApplicantController()
         {
-            this._ApplicantService = new Applicantservice();
-            this.client = new HttpClient();
-            this.client.BaseAddress = new Uri("http://localhost:5000/");
-            this.client.DefaultRequestHeaders.Accept.Clear();
-            this.client.DefaultRequestHeaders.Accept.Add(
-                new MediaTypeWithQualityHeaderValue("application/json"));
+            _ApplicantService = new Applicantservice();
         }
 
 
@@ -34,27 +28,27 @@ namespace API.Controllers
 
         // POST <Controller>
         [HttpPost]
-        public ActionResult<Application> Post(Application value) 
+        public void Post(Application value) 
         {
             _ApplicantService.Post(value);
-            return CreatedAtAction(nameof(Get), new { id = value._id }, value);
         }
+
+        // GET: <Controller>/id
         [HttpGet("{id:length(24)}")]
         public ActionResult<Application> Get(string id)
         {
-            return  _ApplicantService.Get(id);
+            return _ApplicantService.Get(id);
         }
 
+        // POST <Controller>/Query
         [HttpPost("Query")]
-        public async Task<ActionResult<List<Application>>> Query(query query)
+        public ActionResult<List<Application>> Query(query query)
         {
-            HttpResponseMessage response = await client.PostAsJsonAsync("query", query);
-            string s = "";
-            if (response.IsSuccessStatusCode)
+            if (query == null)
             {
-                s =await response.Content.ReadAsStringAsync();
+                throw new Exception("Invalid length of Query");
             }
-            return _ApplicantService.Query(s);
+            return _ApplicantService.Query(query);
         }
     }
 }
