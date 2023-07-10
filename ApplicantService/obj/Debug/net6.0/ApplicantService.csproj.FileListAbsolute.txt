@@ -32,3 +32,24 @@ C:\Users\Dell\Desktop\New folder\Solution\ApplicantService\obj\Debug\net6.0\Appl
 C:\Users\Dell\Desktop\New folder\Solution\ApplicantService\obj\Debug\net6.0\refint\ApplicantService.dll
 C:\Users\Dell\Desktop\New folder\Solution\ApplicantService\obj\Debug\net6.0\ApplicantService.pdb
 C:\Users\Dell\Desktop\New folder\Solution\ApplicantService\obj\Debug\net6.0\ref\ApplicantService.dll
+C:\Users\Dell\Desktop\New folder\Solution\ApplicantService\bin\Debug\net6.0\Query.dll
+C:\Users\Dell\Desktop\New folder\Solution\ApplicantService\bin\Debug\net6.0\Query.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\ApplicantService.deps.json
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\ApplicantService.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\ApplicantService.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\Applicant.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\Query.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\Applicant.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\bin\Debug\net6.0\Query.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.csproj.CopyComplete
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\refint\ApplicantService.dll
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ApplicantService.pdb
+C:\Users\Dell\Desktop\New folder\Solution - Copy\ApplicantService\obj\Debug\net6.0\ref\ApplicantService.dll

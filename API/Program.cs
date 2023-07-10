@@ -7,7 +7,7 @@ builder.Services.AddCors(p => p.AddPolicy("policy", build =>
   
 }));
 // Add services to the container.
-builder.Services.AddSingleton<IApplicantService, Applicantservice>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

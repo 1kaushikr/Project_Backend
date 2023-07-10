@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j1GJi3jDB+u2UTkPodTfr/SA9qCFu1XucDj7qiOdYeUnZsATmTHMlM0kujrKj5blkmKmyitPV1s38aXn6Klhig==",
+  "dgSpecHash": "04x63U/hqTYVV4322MXuge7orSexSGO1Leuliyt2U71KmLv8k41ujCB56mp92KYQMSE7AAz/7V1m0H23mhe4cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution\\Applicant\\Applicant.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\New folder\\Solution - Copy\\Applicant\\Applicant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
